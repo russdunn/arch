@@ -1,32 +1,44 @@
 # List of packages to be used with initial ArchLinux installation (KDE Plasma)
 # - Updated 6 Jan 2018
 
+# Fonts
 ttf-hack
 ttf-anonymous-pro
 ttf-dejavu
 ttf-freefont
 ttf-liberation
 ttf-ubuntu-font-family
+
+# Plasma / Functionality / Programs
 plasma-meta
 networkmanager
-kio-extras
-base-devel
-nodejs
-npm
+transmission-qt
+gwenview
+firefox
+kget
 dolphin
 konsole
 okular
 kate
 kcalc
 partitionmanager
-ntfs-3g
 yakuake
 ark
-transmission-qt
-gwenview
-kget
+
+# Media / Codecs
 alsa-oss
-xorg-xrandr
 mpv
+
+# Binaries
+kio-extras
+ntfs-3g
+wget
 unzip
 unrar
+xorg-xrandr
+
+# Development
+base-devel
+nodejs
+zeal
+npm
