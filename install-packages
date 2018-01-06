@@ -1,0 +1,33 @@
+# List of packages to parse upon initial installation
+# - Updated 6 Jan 2018
+
+ttf-hack
+ttf-anonymous-pro
+ttf-dejavu
+ttf-freefont
+ttf-liberation
+ttf-ubuntu-font-family
+plasma-meta
+networkmanager
+kio-extras
+base-devel
+wget
+nodejs
+npm
+dolphin
+konsole
+okular
+kate
+kcalc
+partitionmanager
+ntfs-3g
+yakuake
+ark
+transmission-qt
+gwenview
+kget
+alsa-oss
+xorg-xrandr
+mpv
+unzip
+unrar
