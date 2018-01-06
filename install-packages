@@ -8,7 +8,6 @@ plasma-meta
 networkmanager
 kio-extras
 base-devel
-wget
 nodejs
 npm
 dolphin
