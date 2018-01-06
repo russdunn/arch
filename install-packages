@@ -7,7 +7,7 @@ ttf-ubuntu-font-family
 plasma-meta
 networkmanager
 kio-extras
-base-devel
+#base-devel
 nodejs
 npm
 dolphin
