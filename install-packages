@@ -1,3 +1,6 @@
+# List of packages to be used with initial ArchLinux installation (KDE Plasma)
+# - Updated 6 Jan 2018
+
 ttf-hack
 ttf-anonymous-pro
 ttf-dejavu
@@ -7,7 +10,7 @@ ttf-ubuntu-font-family
 plasma-meta
 networkmanager
 kio-extras
-;base-devel
+base-devel
 nodejs
 npm
 dolphin
