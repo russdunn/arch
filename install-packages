@@ -42,3 +42,6 @@ base-devel
 nodejs
 zeal
 npm
+
+# Connectivity
+openssh
