@@ -45,3 +45,4 @@ npm
 
 # Connectivity
 openssh
+x11-ssh-askpass
