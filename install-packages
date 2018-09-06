@@ -11,6 +11,7 @@ ttf-ubuntu-font-family
 
 # Plasma / Functionality / Programs
 plasma-meta
+lightdm
 networkmanager
 transmission-qt
 gwenview
